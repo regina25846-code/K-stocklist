@@ -1,0 +1,1 @@
+{"schema":1,"market":"INDEX","count":3,"fields":["symbol","name","board","desc"],"items":[["KOSDAQ","KOSDAQ","지수","코스닥"],["KOSPI","KOSPI","지수","코스피"],["NAS100","NAS100","지수","나스닥 100"]]}
